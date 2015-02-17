@@ -1,5 +1,4 @@
 ##esgf-getcert
----
 
 ###General Installation Instructions
 
